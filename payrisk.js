@@ -3,6 +3,7 @@
 
 QUESTIONNAIRE_DATA['payrisk'] = {
   id: 'payrisk',
+  cardNumber: '10',
   name: 'Payment Risk Prediction Agent',
   sector: 'Power & Utilities · AMI / Customer',
   description: 'Agentic account-level payment risk scoring and proactive intervention — predicting which customers are likely to miss payment before the bill is due, enabling personalized outreach, payment plan offers, and credit holds. Integrates AMI consumption signals, payment history, demographic indicators, and economic stress markers to produce a daily risk score for each account and a recommended intervention action.',

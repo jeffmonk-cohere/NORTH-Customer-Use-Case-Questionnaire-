@@ -3,6 +3,7 @@
 
 QUESTIONNAIRE_DATA['billex'] = {
   id: 'billex',
+  cardNumber: '11',
   name: 'Billing Exception Resolution Agent',
   sector: 'Power & Utilities · AMI / Customer',
   description: 'Agentic triage and auto-resolution of billing exceptions — accounts that fall out of the automated billing run due to estimated reads, meter data management errors, rate code mismatches, unbilled periods, and high-bill flags. Agent resolves routine exception types autonomously, provides billing specialists with structured diagnostic packages for complex cases, and tracks exception aging to minimize revenue recognition delay.',

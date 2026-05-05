@@ -3,6 +3,7 @@
 
 QUESTIONNAIRE_DATA['revprot'] = {
   id: 'revprot',
+  cardNumber: '08',
   name: 'Revenue Protection Agent',
   sector: 'Power & Utilities · AMI / Customer',
   description: 'Agentic detection and investigation prioritization for non-technical loss (NTL) — meter tampering, theft, unbilled usage, and systematic billing errors. Continuously analyzes AMI interval data against consumption baselines, peer-group comparisons, and physical event signals to generate scored investigation leads, auto-assign field crews, and track recovery from case open to revenue restoration.',

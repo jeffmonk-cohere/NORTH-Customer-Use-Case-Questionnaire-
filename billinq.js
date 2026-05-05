@@ -3,6 +3,7 @@
 
 QUESTIONNAIRE_DATA['billinq'] = {
   id: 'billinq',
+  cardNumber: '09',
   name: 'Billing Inquiry Resolution Agent',
   sector: 'Power & Utilities · AMI / Customer',
   description: 'Agentic resolution of customer billing inquiries across digital and IVR channels — bill spike explanation, estimated read disputes, rate plan questions, payment arrangement setup, and high-usage alerts. Agent resolves Tier 1-2 contacts without a human agent and provides structured context packages to agents for Tier 3 escalations, reducing handle time and improving first-contact resolution.',
